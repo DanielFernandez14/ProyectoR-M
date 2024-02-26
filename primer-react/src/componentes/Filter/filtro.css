@@ -1,0 +1,27 @@
+.filtro_color_div{
+    background-color: #344d67;
+    display: flex;
+    justify-content: center;
+    color: #b1f0dc; 
+    padding: 8px 8px;
+    margin: 8px;
+}
+.filtro__color__input{
+    background-color: #8cfbd8;
+}
+.celeste{
+    color: #8cfbd8;
+}
+
+.blanco{
+    color: white;
+}
+
+
+.filtro__color__input:checked{
+    background-color: #223142;
+}
+/*.filtro__color__input:checked{
+    color: #b1f0dc;
+}*/
+

@@ -1,0 +1,16 @@
+.description__botonx{
+    background-color: #6eccaf;
+    margin-left: 225px;
+    color: black;
+}
+.description__characters{
+    list-style: none;
+    margin: 7px; 
+    padding: 3px;
+}
+.description__characters:hover{
+    background-color: #6eccaf;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #223142;   
+}

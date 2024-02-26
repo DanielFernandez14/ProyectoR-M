@@ -1,0 +1,74 @@
+.bg-home{
+    background-color: rgba(255, 255, 255,0.9);
+    height: fit-content;
+    margin: 5%;
+    width: 40%;
+}
+h1{
+    color: #223142 !important;
+}
+.div__botones__inicio{
+    margin: 20px 20px;
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+}
+.boton_contact{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+@media screen and (max-width: 576px){
+    .bg-home{
+        width: 90% !important;
+    }
+    .t_1{
+        font-size: 15px;
+        color: #223142;
+        
+    }
+    .t_2{
+        color:#6ECCAF;
+    }
+    .t_6{
+        color: #6ECCAF;
+    }
+}
+@media screen and (max-width: 768px){
+    .bg-home{
+        width: 75% !important;    
+    }
+    .t_1{
+        font-size: 30px;
+        color: #223142;
+    }
+    .t_2{
+        color:#6ECCAF;
+    }
+    .t_6{
+        color: #6ECCAF;
+    }
+}
+@media screen and (max-width: 992px){
+    .bg-home{
+        width: 60% !important;
+    }
+    .t_1{
+        font-size: 30px;
+        color: #223142;
+    }
+    .t_2{
+        color:#6ECCAF;
+    }
+    .t_6{
+        color: #6ECCAF;
+    }
+}
+@media screen and (max-width: 1200px){
+    .bg-home{
+        width: 45%;
+    }
+    .t_1{
+        color: #223142;
+    }
+}

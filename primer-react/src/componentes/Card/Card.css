@@ -1,0 +1,25 @@
+.card{
+    width: fit-content;
+    background-color: #223142;
+}
+
+h3{
+    color: #b1f0dc;
+    
+}
+
+
+.color_boton{
+    color: #223142;
+    background-color: #6ECCAF;
+    border: none !important;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+
+.nan-display{
+    display: none;
+}
+.max_width{
+    max-width: 300px;
+}

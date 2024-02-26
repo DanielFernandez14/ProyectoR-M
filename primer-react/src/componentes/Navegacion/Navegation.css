@@ -1,0 +1,24 @@
+.active{
+    color: #344d67;
+    background-color: #6eccaf;
+    border-radius: 10px;
+}
+.mod_nav{
+    background-color: #344d67;
+    padding: 60px 100px;
+}
+.link_nav{
+    color: #6eccaf;
+}
+.color_rickymorty{
+    color: #6eccaf !important;
+}
+.verde_claro{
+    color: #6eccaf !important;
+
+}
+.verde_claro:hover{
+    background-color: #6eccaf;
+    color: #344d67 !important;
+    border-radius: 10px;
+}
